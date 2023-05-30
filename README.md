@@ -1,7 +1,8 @@
 # now_in_android_flow_explain
 Explain flow of Now In Android app from Google for learning
 
-![Biểu đồ không có tiêu đề drawio](https://github.com/dattran2k/now_in_android_flow_explain/assets/56917449/b5e29c94-4947-41a0-98ff-3b046018c869)
+![Biểu đồ không có tiêu đề drawio](https://github.com/dattran2k/now_in_android_flow_explain/assets/56917449/6debbc99-8384-4361-8e59-f2e974cf3572)
+
 
 1. https://github.com/android/nowinandroid/blob/main/sync/work/src/main/java/com/google/samples/apps/nowinandroid/sync/workers/SyncWorker.kt
 2. https://github.com/android/nowinandroid/blob/main/feature/search/src/main/java/com/google/samples/apps/nowinandroid/feature/search/SearchScreen.kt
