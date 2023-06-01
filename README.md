@@ -12,4 +12,4 @@ Explain how data of App "NowInAndroid" from Google fow work just for learning
 
 ## ForYouScreen (Home Screen)
 
-![Biểu đồ không có tiêu đề-Trang-2 drawio](https://github.com/dattran2k/now_in_android_flow_explain/assets/56917449/77a75698-5bfb-4fcb-99c2-e9e61c288e9f)
+![Biểu đồ không có tiêu đề-Trang-2 drawio](https://github.com/dattran2k/now_in_android_flow_explain/assets/56917449/12572d52-523e-4a11-a8eb-7ea492820b8d)
