@@ -1,5 +1,5 @@
 # now_in_android_flow_explain
-Explain flow of Now In Android app from Google for learning
+Explain how data of App "NowInAndroid" from Google fow work just for learning
 
 ![Biểu đồ không có tiêu đề drawio](https://github.com/dattran2k/now_in_android_flow_explain/assets/56917449/6debbc99-8384-4361-8e59-f2e974cf3572)
 
